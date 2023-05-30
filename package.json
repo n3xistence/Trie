@@ -1,0 +1,12 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "comp": "npx tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
